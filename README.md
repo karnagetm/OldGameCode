@@ -25,5 +25,7 @@ Space Adventure Game is a dynamic and engaging browser-based game, ideal for A-l
 
 ## Play Online
 Experience the thrill of navigating through space and testing your reflexes by playing the game online here:
+## Desktop Version
 [Space Adventure Game Online](https://editor.p5js.org/karnagetm/full/LgvlzW1Ob)
-
+## Mobile Version
+[Space Adventure Game Online](https://editor.p5js.org/karnagetm/full/l4FzQV6_s)
