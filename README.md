@@ -1,30 +1,29 @@
-# Space Adventure Game
+#Space Adventure Game
 
 ## Description
-Space Adventure Game is a dynamic and engaging browser-based game, perfect for an A-level assignment. This project, while functional, is continuously being developed and enhanced. The game now features a variety of obstacles (aliens), a visually appealing spaceship with a rocket-like fire effect, and captivating lightning effects. A menu system with instructions, a scoring system based on survival time, and improved game mechanics make it more interactive and challenging.
+Space Adventure Game is a dynamic and engaging browser-based game, ideal for A-level computing projects. The game has evolved with continuous development and enhancements. It boasts a variety of dynamic obstacles (aliens), an aesthetically designed spaceship with rocket-like fire propulsion, and enthralling lightning effects. A user-friendly menu system, a challenging scoring mechanism based on survival time, and progressively difficult gameplay contribute to an immersive and stimulating experience.
 
 ## New Features and Improvements
-- **Enhanced Spaceship**: The spaceship now has a more realistic design and includes a dynamic fire effect at the back, simulating a rocket propulsion.
-- **Obstacle Variety**: Aliens (obstacles) come in different sizes and colors, creating a more varied and challenging environment.
-- **Scoring System**: A new scoring system tracks how long the player survives, with a high score feature to record the player's best performance.
-- **Dynamic Lightning Effects**: The game includes visually appealing lightning effects that add to the ambiance and challenge.
-- **Improved Menu System**: Easy navigation with a clear and user-friendly menu that includes instructions on how to play.
-  
+- **Progressive Difficulty**: The number of obstacles increases as the player's high score gets higher, adding to the game's challenge.
+- **Background Dynamics**: The background color changes every 25 points scored, enriching the visual diversity of the game.
+- **Starry Squares**: Squares with star-like dots move around in the background, enhancing the cosmic ambiance and reducing visual monotony.
+
 ## Installation
 1. Download and extract the ZIP file.
-2. Open `index.html` in a web browser.
+2. Open `index.html` in a web browser to start the game.
 
 ## Usage
-- Start the game by launching `index.html`.
-- Navigate through the menu using the mouse.
-- In-game controls: 
-  - **UP Arrow Key**: Move the spaceship up.
-  - **DOWN Arrow Key**: Move the spaceship down.
-- The objective is to avoid the aliens and survive as long as possible to achieve a high score.
-- View instructions and exit to the main menu from within the game.
+- **Starting the Game**: Launch `index.html` to begin your space adventure.
+- **Menu Navigation**: Use the mouse to interact with the menu.
+- **Game Controls**:
+  - **UP Arrow Key**: Propel the spaceship upwards.
+  - **DOWN Arrow Key**: Glide the spaceship downwards.
+- **Objective**: Dodge the aliens and endure to rack up a high score.
+- **Instructions**: Accessible via the menu, they provide guidance on game mechanics.
+- **Exiting**: The main menu is accessible after game over.
+
 
 ## Play Online
-You can also play the game online at:
-[Space Adventure Game](https://editor.p5js.org/karnagetm/full/xsbbpKDOX)
+Experience the thrill of navigating through space and testing your reflexes by playing the game online here:
+[Space Adventure Game Online](https://editor.p5js.org/karnagetm/full/LgvlzW1Ob)
 
-Enjoy the thrilling journey through space in the Space Adventure Game!
