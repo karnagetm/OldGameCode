@@ -28,4 +28,4 @@ Experience the thrill of navigating through space and testing your reflexes by p
 ## Desktop Version
 [Space Adventure Game Online](https://editor.p5js.org/karnagetm/full/LgvlzW1Ob)
 ## Mobile Version
-[Space Adventure Game Online](https://editor.p5js.org/karnagetm/full/l4FzQV6_s)
+[Space Adventure Game Online](https://editor.p5js.org/karnagetm/full/JZsEbqkZ6)
