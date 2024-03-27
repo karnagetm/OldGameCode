@@ -1,4 +1,4 @@
-##Space Adventure Game:
+## Space Adventure Game:
 
 ## Description:
 Space Adventure Game is a dynamic and engaging browser-based game, ideal for A-level computing projects. The game has evolved with continuous development and enhancements. It boasts a variety of dynamic obstacles (aliens), an aesthetically designed spaceship with rocket-like fire propulsion, and enthralling lightning effects. A user-friendly menu system, a challenging scoring mechanism based on survival time, and progressively difficult gameplay contribute to an immersive and stimulating experience.
@@ -21,6 +21,8 @@ Space Adventure Game is a dynamic and engaging browser-based game, ideal for A-l
 - **Instructions**: Accessible via the menu, they provide guidance on game mechanics.
 - **Exiting**: The main menu is accessible after game over.
 
+## Updates:
+- Desktop Version needs a update
 
 ## Play:
 Experience the thrill of navigating through space and testing your reflexes by playing the game online here:
