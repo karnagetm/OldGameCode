@@ -1,4 +1,4 @@
-#Space Adventure Game:
+##Space Adventure Game:
 
 ## Description:
 Space Adventure Game is a dynamic and engaging browser-based game, ideal for A-level computing projects. The game has evolved with continuous development and enhancements. It boasts a variety of dynamic obstacles (aliens), an aesthetically designed spaceship with rocket-like fire propulsion, and enthralling lightning effects. A user-friendly menu system, a challenging scoring mechanism based on survival time, and progressively difficult gameplay contribute to an immersive and stimulating experience.
@@ -16,8 +16,7 @@ Space Adventure Game is a dynamic and engaging browser-based game, ideal for A-l
 - **Starting the Game**: Launch `index.html` to begin your space adventure.
 - **Menu Navigation**: Use the mouse to interact with the menu.
 - **Game Controls**:
-  - **UP Arrow Key**: Propel the spaceship upwards.
-  - **DOWN Arrow Key**: Glide the spaceship downwards.
+- **UP Arrow Key**: Propel the spaceship upwards. - **DOWN Arrow Key**: Glide the spaceship downwards.
 - **Objective**: Dodge the aliens and endure to rack up a high score.
 - **Instructions**: Accessible via the menu, they provide guidance on game mechanics.
 - **Exiting**: The main menu is accessible after game over.
